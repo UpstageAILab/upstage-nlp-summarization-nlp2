@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hm5nZYSf)
 # Dialogue Summarization | 일상 대화 요약
-### 학교 생활, 직장, 치료, 쇼핑, 여가, 여행 등 광범위한 일상 생활 중 하는 대화들에 대해 요약합니다.
+![스크린샷 2024-03-08 오전 10 06 11](https://github.com/UpstageAILab/upstage-nlp-summarization-nlp2/assets/46295610/b492902e-31d0-4ed4-bb3b-f5f4fdabef9d)
 
 ## Team
 
